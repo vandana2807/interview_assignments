@@ -8,3 +8,10 @@ Atrius Capital Management
 5. TradingStrategy.py 
 
 Athena Capital Research
+main 
+*run.py
+supporting files 
+ *ModernDictionary.py
+ *GeneralizedSuffixTree.py
+ *PrefixTree.py
+ 
